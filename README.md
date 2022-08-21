@@ -17,3 +17,6 @@ a + b                                                             #cell_type": "
 a - b                                                             #cell_type": "code"
 a * b                                                             #cell_type": "code"
 a / b                                                             #cell_type": "code"
+
+
+_horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough._   #cell_type": "markdown"
